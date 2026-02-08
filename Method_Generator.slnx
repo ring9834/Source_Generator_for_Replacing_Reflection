@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Method_Consumer/Method_Consumer.csproj" />
+  <Project Path="Method_Generator/Method_Generator.csproj" />
+</Solution>
